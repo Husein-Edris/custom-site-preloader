@@ -26,9 +26,4 @@ Custom Site Preloader is a JavaScript-based solution for adding an elegant prelo
 4. Implement the JavaScript logic for showing and hiding the preloader based on your requirements.
 5. Test your website with the custom preloader to ensure it works as expected.
 
-## Author
-- Edris Husein
-- GitHub: [Husein-Edris]https://github.com/Husein-Edris/
-- GitHub: https://github.com/Husein-Edris/
-
 ![custom-site-preloader](https://github.com/Husein-Edris/custom-site-preloader/assets/71021351/285433df-393c-4ea0-a98c-ad887b0e513a)
